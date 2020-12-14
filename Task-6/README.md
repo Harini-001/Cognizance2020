@@ -13,3 +13,4 @@ print number is an Armstrong
 else
 print number is not an Armstrong
 
+https://raw.githubusercontent.com/Harini-001/Cognizance2020/main/FLOWCHART.PNG
